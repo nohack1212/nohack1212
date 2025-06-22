@@ -36,7 +36,7 @@ OSINT, tests d’intrusion, détection de vulnérabilités et sensibilisation.
 ## 📡 Rejoignez-nous
 
 👉 Site officiel : [nohackzone.com](https://nohackzone.com)  
-📬 Contact : `co@nohackzone.com`  
+📬 Contact : `help-service@nohackzone.com`  
 
 ---
 
